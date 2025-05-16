@@ -1,0 +1,2 @@
+# fikoizim
+Fikoizim Mahnı
